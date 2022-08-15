@@ -143,7 +143,7 @@ See my website for more! https://alexliebhaber.netlify.app/
     <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button for live site" height="25px"></a>
   </a>
       </p>
-        <p align="center"><strong>Throwback Snake Game - JS, HTML, CSS</strong></p>
+        <p align="center"><strong>Web App Throwback Snake Game - JS, HTML, CSS</strong></p>
     </td>
   </tr>
 </table>
