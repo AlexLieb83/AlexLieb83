@@ -38,7 +38,7 @@ See my website for more! https://alexliebhaber.netlify.app/
 <br/>
 
 <table bordercolor="#a3496a">
-  
+  <!-- Row 1 -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Bariste Coffee</h3>
@@ -71,7 +71,43 @@ See my website for more! https://alexliebhaber.netlify.app/
     <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button for live site" height="25px"></a>
   </a>
       </p>
-        <p align="center"><strong>Web App Using Pokemon API - JS, HTML, CSS</strong></p>
+        <p align="center"><strong>Web App to Look Up Any Pokemon Using Pokemon API - JS, HTML, CSS</strong></p>
+    </td>
+  </tr>
+<!-- Row 2 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Border Radius Previewer</h3>
+        <br />
+        <a target="_blank" href="https://borderradiuspreview.netlify.app/">
+            <img src="bariste.gif" width="100%" height="270px" alt="Border Radius Previewer website"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/AlexLieb83/Border-Radius-Previewer" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button for repository" height ="25px"></a> 
+  <a href="https://borderradiuspreview.netlify.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button for live site" height="25px"></a>
+        </p>
+         <p align="center"><strong>Web App to Preview and Create Custom Border Radius - JS, HTML, CSS</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Doggo Viewer</h3>
+      <br />
+        <a target="_blank" href="https://doggoviewer.netlify.app/">
+          <img src="pokepics.gif" width="95%" height="270px" alt="Doggo Viewer website"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/AlexLieb83/doggo-generator" target="_blank">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button for repository" height ="25px"></a> 
+  </a>
+  <a href="https://doggoviewer.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button for live site" height="25px"></a>
+  </a>
+      </p>
+        <p align="center"><strong>Web App to View Several Breeds of Dogs Using Dog API - HTML, CSS</strong></p>
     </td>
   </tr>
 </table>
