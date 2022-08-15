@@ -44,7 +44,7 @@ See my website for more! https://alexliebhaber.netlify.app/
       <h3 align="center">Bariste Coffee</h3>
         <br />
         <a target="_blank" href="https://baristecoffee.netlify.app/">
-            <img src="bariste.mp4" width="100%" height="270px" alt="Bariste Coffee website"/>
+            <img src="bariste.gif" width="100%" height="270px" alt="Bariste Coffee website"/>
         </a>
         <br />
         <p align="center">
@@ -60,7 +60,7 @@ See my website for more! https://alexliebhaber.netlify.app/
       <h3 align="center">Poke-Pics</h3>
       <br />
         <a target="_blank" href="https://pokemonpics.netlify.app/">
-          <img src="pokepics.mp4" width="95%" height="270px" alt="poke-pics website"/>
+          <img src="pokepics.gif" width="95%" height="270px" alt="poke-pics website"/>
         </a>
       <br />
         <p align="center">
