@@ -110,6 +110,42 @@ See my website for more! https://alexliebhaber.netlify.app/
         <p align="center"><strong>Web App to View Several Breeds of Dogs Using Dog API - HTML, CSS</strong></p>
     </td>
   </tr>
+  <!-- Row 3 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Another Wordle Clone</h3>
+        <br />
+        <a target="_blank" href="https://anotherwordleclone.netlify.app/">
+            <img src="wordle.gif" width="100%" height="270px" alt="Another Wordle Clone App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/AlexLieb83/wordle-game" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button for repository" height ="25px"></a> 
+  <a href="https://anotherwordleclone.netlify.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button for live site" height="25px"></a>
+        </p>
+         <p align="center"><strong>Web App Clone of Wordle - JS, HTML, CSS</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Throwback Snake</h3>
+      <br />
+        <a target="_blank" href="https://throwbacksnake.netlify.app/">
+          <img src="snake.gif" width="95%" height="270px" alt="Throwback Snake App website"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/AlexLieb83/Snake-game" target="_blank">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button for repository" height ="25px"></a> 
+  </a>
+  <a href="https://throwbacksnake.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button for live site" height="25px"></a>
+  </a>
+      </p>
+        <p align="center"><strong>Throwback Snake Game - JS, HTML, CSS</strong></p>
+    </td>
+  </tr>
 </table>
 
 <a href="https://github.com/AVS1508">
