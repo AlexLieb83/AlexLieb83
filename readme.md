@@ -80,7 +80,7 @@ See my website for more! https://alexliebhaber.netlify.app/
       <h3 align="center">Border Radius Previewer</h3>
         <br />
         <a target="_blank" href="https://borderradiuspreview.netlify.app/">
-            <img src="bariste.gif" width="100%" height="270px" alt="Border Radius Previewer website"/>
+            <img src="border.gif" width="100%" height="270px" alt="Border Radius Previewer website"/>
         </a>
         <br />
         <p align="center">
@@ -96,7 +96,7 @@ See my website for more! https://alexliebhaber.netlify.app/
       <h3 align="center">Doggo Viewer</h3>
       <br />
         <a target="_blank" href="https://doggoviewer.netlify.app/">
-          <img src="pokepics.gif" width="95%" height="270px" alt="Doggo Viewer website"/>
+          <img src="doggo.gif" width="95%" height="270px" alt="Doggo Viewer website"/>
         </a>
       <br />
         <p align="center">
