@@ -153,4 +153,3 @@ See my website for more! https://alexliebhaber.netlify.app/
    
 </a>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alexlieb83)
