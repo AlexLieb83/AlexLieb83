@@ -148,8 +148,8 @@ See my website for more! https://alexliebhaber.netlify.app/
   </tr>
 </table>
 
-<a href="https://github.com/AVS1508">
+<!-- <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexlieb83&theme=buefy&layout=compact" />
    
-</a>
+</a> -->
 
