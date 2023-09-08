@@ -2,12 +2,9 @@
 
 #### Software Engineer passionate about creating and learning.
 
-Hey, I'm Alex. I'm a Software Engineer, with a background in Psychology and Management. I am motivated by making projects that push my skills and knowledge.
+Hey, I'm Alex. I'm a Software Engineer, with a background in Psychology, Management, and Customer Service. I am motivated by constantly learning and by working on projects that push my skills and knowledge.
 
 See my website for more! https://alexliebhaber.netlify.app/
-
-- I’m currently working on My Budgeting App and Machine Learning with JS
-- Committed to committing code every day of 2022!
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
