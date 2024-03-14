@@ -4,7 +4,7 @@
 
 Hey, I'm Alex. I'm a Software Engineer, with a background in Psychology, Management, and Customer Service. I am motivated by constantly learning and by working on projects that push my skills and knowledge.
 
-See my website for more! https://alexliebhaber.netlify.app/
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
@@ -13,6 +13,7 @@ See my website for more! https://alexliebhaber.netlify.app/
 <a href="https://www.linkedin.com/in/alexliebhaber/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alex%20Liebhaber-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/alex_liebhaber"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-alex_liebhaber-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:alexliebhaber@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alexliebhaber@protonmail.com-blue?style=flat-square&logo=gmail"></a>
+<!--   <p>See my website for more! https://alexliebhaber.netlify.app/</p> -->
 </p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
