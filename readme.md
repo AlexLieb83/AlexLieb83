@@ -48,8 +48,9 @@ See my website for more! https://alexliebhaber.netlify.app/
           
   <a href="https://github.com/AlexLieb83/Bariste-Coffee" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button for repository" height ="25px"></a> 
-  <a href="https://baristecoffee.netlify.app/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button for live site" height="25px"></a>
+<!--   <a href="https://baristecoffee.netlify.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button for live site" height="25px">
+  </a> -->
         </p>
          <p align="center"><strong>Web Site - JS, HTML, CSS, SCSS</strong></p>
     </td>
@@ -84,8 +85,8 @@ See my website for more! https://alexliebhaber.netlify.app/
           
   <a href="https://github.com/AlexLieb83/Border-Radius-Previewer" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button for repository" height ="25px"></a> 
-  <a href="https://borderradiuspreview.netlify.app/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button for live site" height="25px"></a>
+<!--   <a href="https://borderradiuspreview.netlify.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button for live site" height="25px"></a> -->
         </p>
          <p align="center"><strong>Web App to Preview and Create Custom Border Radius - JS, HTML, CSS</strong></p>
     </td>
@@ -100,8 +101,8 @@ See my website for more! https://alexliebhaber.netlify.app/
   <a href="https://github.com/AlexLieb83/doggo-generator" target="_blank">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button for repository" height ="25px"></a> 
   </a>
-  <a href="https://doggoviewer.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button for live site" height="25px"></a>
+<!--   <a href="https://doggoviewer.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button for live site" height="25px"></a> -->
   </a>
       </p>
         <p align="center"><strong>Web App to View Several Breeds of Dogs Using Dog API - HTML, CSS</strong></p>
@@ -120,8 +121,8 @@ See my website for more! https://alexliebhaber.netlify.app/
           
   <a href="https://github.com/AlexLieb83/wordle-game" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button for repository" height ="25px"></a> 
-  <a href="https://anotherwordleclone.netlify.app/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button for live site" height="25px"></a>
+<!--   <a href="https://anotherwordleclone.netlify.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button for live site" height="25px"></a> -->
         </p>
          <p align="center"><strong>Web App Clone of Wordle - JS, HTML, CSS</strong></p>
     </td>
@@ -136,8 +137,8 @@ See my website for more! https://alexliebhaber.netlify.app/
   <a href="https://github.com/AlexLieb83/Snake-game" target="_blank">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button for repository" height ="25px"></a> 
   </a>
-  <a href="https://throwbacksnake.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button for live site" height="25px"></a>
+<!--   <a href="https://throwbacksnake.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button for live site" height="25px"></a> -->
   </a>
       </p>
         <p align="center"><strong>Web App Throwback Snake Game - JS, HTML, CSS</strong></p>
