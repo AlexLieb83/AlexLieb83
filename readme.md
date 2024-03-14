@@ -9,7 +9,7 @@ Hey, I'm Alex. I'm a Software Engineer, with a background in Psychology, Managem
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://alexliebhaber.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-alexliebhaber.netlify.app/-blue?style=flat-square&logo=google-chrome"></a>
+<!-- <a href="https://alexliebhaber.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-alexliebhaber.netlify.app/-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/alexliebhaber/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alex%20Liebhaber-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/alex_liebhaber"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-alex_liebhaber-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:alexliebhaber@protonmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alexliebhaber@protonmail.com-blue?style=flat-square&logo=gmail"></a>
