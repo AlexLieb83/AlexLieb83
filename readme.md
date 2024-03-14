@@ -64,9 +64,9 @@ See my website for more! https://alexliebhaber.netlify.app/
   <a href="https://github.com/AlexLieb83/Poke-Pics" target="_blank">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=01a9f4" alt="button for repository" height ="25px"></a> 
   </a>
-  <a href="https://pokemonpics.netlify.app/" target="_blank">
+<!--   <a href="https://pokemonpics.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-live%20site-01a9f4?style=flat-square" alt="button for live site" height="25px"></a>
-  </a>
+  </a> -->
       </p>
         <p align="center"><strong>Web App to Look Up Any Pokemon Using Pokemon API - JS, HTML, CSS</strong></p>
     </td>
