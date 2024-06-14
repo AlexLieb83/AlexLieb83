@@ -2,7 +2,7 @@
 
 #### Software Engineer passionate about creating and learning.
 
-Hey, I'm Alex. I'm a Software Engineer, with a background in Psychology, Management, and Customer Service. I am motivated by constantly learning and by working on projects that push my skills and knowledge.
+Hey, I'm Alex. I'm a Software Engineer, with a background in Psychology, Management, and Customer Service. I am motivated by constantly learning and by working on projects that push my skills and knowledge. Having a ton of fun learning Swift lately!
 
 
 
